@@ -1,7 +1,8 @@
 # FruitGunShoot
 2023 ISHS 라이빗 유니티 게임
 
-### 활용 에
+### 활용 Asset
+https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565
 ---
 ### 게임 설명
 
